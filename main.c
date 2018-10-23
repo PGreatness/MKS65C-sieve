@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include "main.h"
-#include "sieve.h"
+#include "sieve.h" //idk how to perfectly do this...
 
 
 int main() {
